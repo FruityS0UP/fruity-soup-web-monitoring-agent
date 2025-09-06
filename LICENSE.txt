@@ -1,0 +1,6 @@
+Fruity Soup License – All Rights Reserved
+
+Copyright © 2025 Fruity Soup (Your Name)
+
+This repository and its contents are published for demonstration purposes only.
+No commercial use or redistribution without written permission.

@@ -1,0 +1,8 @@
+[
+  {
+    "id": "sample_product",
+    "source": "data/pages/sample_current.html",
+    "selector": "#price",
+    "label": "Sample Product (Price)"
+  }
+]
